@@ -16,6 +16,7 @@
                         Front End Developer
                     </div>
                     <span>Hi. My name is Thanakorn Huayyai my nickname is Korn and  I am 26 years old. Professional, currently holds the position of Frontend Web Developer. Creating visually appealing and functional websites that seamlessly blend design and functionality.</span>
+                    <a href="../../../src/assets/Resume.pdf" class="btn btn-primary" download>RESUME</a>
                 </div>
             </div>
         </div>
