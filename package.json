@@ -2,9 +2,8 @@
     "name": "portfolio-web-vue",
     "private": true,
     "version": "0.0.0",
-    "homepage": "https://github.com/theeye62/portfolio_vue.github.io.git",
+    "homepage": "https://theeye62.github.io/portfolio_vue.github.io/",
     "type": "module",
-    "publish": "npm run build && rm -rf docs; cp -r dist docs && sed -i -e 's/src=\\//src=/g' docs/index.html ; sed -i -e 's/href=\\//href=/g' docs/index.html",
     "scripts": {
         "dev": "vite",
         "build": "vite build",
